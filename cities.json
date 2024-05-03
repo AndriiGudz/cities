@@ -4,55 +4,55 @@
     "latitude": 51.5074,
     "longitude": -0.1278,
     "description": "London is the capital and largest city of England and the United Kingdom. It is one of the world's leading financial centers and has a diverse range of people and cultures.",
-    "image": ""
+    "image": "https://www.americanexpress.com/de-de/amexcited/media/webp/de-de/amexcited/media/cache/article_intro_hero/cms/2023/07/london-sehenswuerdigkeiten-titel.webp?554704"
   },
   {
     "city": "Paris",
     "latitude": 48.8566,
     "longitude": 2.3522,
     "description": "Paris is the capital and most populous city of France. It is known for its fashion, art, cuisine, and landmarks such as the Eiffel Tower and the Louvre.",
-    "image": ""
+    "image": "https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/medium_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"
   },
   {
     "city": "Berlin",
     "latitude": 52.52,
     "longitude": 13.405,
     "description": "Berlin is the capital and largest city of Germany. It is known for its historical significance, cultural attractions, and vibrant nightlife.",
-    "image": ""
+    "image": "https://www.shutterstock.com/image-photo/brandenburg-gate-illuminated-sunset-berlin-600nw-2323529337.jpg"
   },
   {
     "city": "Madrid",
     "latitude": 40.4168,
     "longitude": -3.7038,
     "description": "Madrid is the capital and largest city of Spain. It is known for its rich cultural heritage, stunning architecture, and lively atmosphere.",
-    "image": ""
+    "image": "https://images.ctfassets.net/zmjc9gr9hbbf/1wm11PSR5i6W9iqxhOnTM5/e63f112b19e0adfed25d2a4b9212f060/MAD32860.jpg?w=1980"
   },
   {
     "city": "Rome",
     "latitude": 41.9028,
     "longitude": 12.4964,
     "description": "Rome is the capital and largest city of Italy. It is famous for its ancient history, art, architecture, and landmarks such as the Colosseum and Vatican City.",
-    "image": ""
+    "image": "https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg"
   },
   {
     "city": "Athens",
     "latitude": 37.9838,
     "longitude": 23.7275,
     "description": "Athens is the capital and largest city of Greece. It is often referred to as the cradle of Western civilization and is known for its historical significance and ancient monuments.",
-    "image": ""
+    "image": "https://slavatours.com/wp-content/uploads/2017/07/the-parthenon-the-acropolis-athens-greece_980x650.jpg"
   },
   {
     "city": "Amsterdam",
     "latitude": 52.3676,
     "longitude": 4.9041,
     "description": "Amsterdam is the capital and largest city of the Netherlands. It is known for its picturesque canals, historic buildings, and vibrant cultural scene.",
-    "image": ""
+    "image": "https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2020/10/1603877010_Tanzende-Haeuser-in-Amsterdam.jpg"
   },
   {
     "city": "Vienna",
     "latitude": 48.2082,
     "longitude": 16.3738,
     "description": "Vienna is the capital and largest city of Austria. It is known for its imperial palaces, cultural events, classical music, and coffee house culture.",
-    "image": ""
+    "image": "https://media.architecturaldigest.com/photos/561d6d06ed5c90fd5d6127ee/4:3/w_2360,h_1770,c_limit/Vienna%20Travel.jpg"
   }
 ]
